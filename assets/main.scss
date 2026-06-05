@@ -1,0 +1,16 @@
+---
+---
+
+// Minimal black theme — overrides minima's defaults
+$background-color:       #0d0d0d;
+$text-color:             #d4d4d4;
+$brand-color:            #66b3ff;
+$link-color:             #66b3ff;
+$code-background-color:  #1a1a1a;
+$code-text-color:        #e6e6e6;
+$border-color-01:        #2a2a2a;
+$border-color-02:        #333;
+$site-title-color:       #eee;
+$header-heading-color:   #eee;
+
+@import "minima";
